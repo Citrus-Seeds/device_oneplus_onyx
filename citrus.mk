@@ -33,3 +33,7 @@ PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 PRODUCT_BRAND := OnePlus
 TARGET_VENDOR := oneplus
 TARGET_VENDOR_PRODUCT_NAME := onyx
+
+# Citrus-CAF Maintainers
+PRODUCT_BUILD_PROP_OVERRIDES += \
+         DEVICE_MAINTAINERS="Rohit (rohitporoli)"

@@ -37,3 +37,7 @@ TARGET_VENDOR_PRODUCT_NAME := onyx
 # Citrus-CAF Maintainers
 PRODUCT_BUILD_PROP_OVERRIDES += \
          DEVICE_MAINTAINERS="Rohit (rohitporoli)"
+
+# CAF REVISION
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.caf.branch=LA.UM.5.6.r1-02500-89xx.0

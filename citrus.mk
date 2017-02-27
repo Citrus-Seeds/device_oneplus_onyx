@@ -40,4 +40,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 # CAF REVISION
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.caf.branch=LA.UM.5.6.r1-02500-89xx.0
+    ro.caf.branch=LA.UM.5.6.r1-03400-89xx.0

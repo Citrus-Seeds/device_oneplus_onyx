@@ -195,6 +195,10 @@ PRODUCT_PACKAGES += \
     libcnefeatureconfig \
     libxml2
 
+# Screencast
+PRODUCT_PACKAGES += \
+	Screencast
+
 # Sensors
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/sensors/sensor_def_qcomdev.conf:system/etc/sensors/sensor_def_qcomdev.conf

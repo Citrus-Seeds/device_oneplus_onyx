@@ -36,7 +36,7 @@ TARGET_VENDOR_PRODUCT_NAME := onyx
 
 # Citrus-CAF Maintainers
 PRODUCT_BUILD_PROP_OVERRIDES += \
-         DEVICE_MAINTAINERS="Nihar (Nero_D)"
+         DEVICE_MAINTAINERS="Anunay Maheshwari (anunaym14)"
 
 # CAF REVISION
 PRODUCT_PROPERTY_OVERRIDES += \
